@@ -9,3 +9,7 @@ Step some description
 	Step 2
 	cmd
 Step some description
+
+	Step 3
+	cmd
+Final Step
