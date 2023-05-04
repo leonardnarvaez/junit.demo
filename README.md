@@ -11,3 +11,5 @@ Step some description
 Step some description
 
 ## Feature 1
+
+## Feature 2
